@@ -1,0 +1,8 @@
+{
+  "name": "mace",
+  "cozy-type": "static",
+  "displayName": "MACe",
+  "version": "1.0.0",
+  "description": "Master Cerebral Extension",
+  "main": "index.html"
+}
